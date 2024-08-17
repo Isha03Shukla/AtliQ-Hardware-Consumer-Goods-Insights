@@ -1,7 +1,5 @@
 **AtliQ Hardware Consumer Goods Insights - Codebasics Challenge**
 
-**AtliQ Hardware Consumer Goods Insights: Mastering MySQL** 
-
 **Project Overview:** Leveraged MySQL for sophisticated data querying and analytics to address management’s ad hoc requests in the consumer goods sector.
 
 **Skills Gained:** Enhanced SQL proficiency, specializing in:
