@@ -1,5 +1,27 @@
 **AtliQ Hardware Consumer Goods Insights - Codebasics Challenge**
 
+**AtliQ Hardware Consumer Goods Insights: Mastering MySQL** 
+
+**Project Overview:** Leveraged MySQL for sophisticated data querying and analytics to address management’s ad hoc requests in the consumer goods sector.
+
+**Skills Gained:** Enhanced SQL proficiency, specializing in:
+
+* Subqueries: For filtering and aggregating data.
+* CTEs (Common Table Expressions): For structuring complex queries more clearly.
+* JOINs: To combine and analyze data from multiple tables.
+* Window Functions: Utilizing RANK() to perform advanced data analysis and ranking.
+
+**Insights Delivered:**
+
+* Product Trends: Identified and analyzed trends in product sales.
+* Top Customers: Determined top customers based on sales volume.
+* Discount Strategies: Assessed the impact of various discount strategies on sales.
+* Sales Metrics: Calculated key sales metrics, including average sales and total quantities sold.
+
+**Impact and Learnings:** Showcased actionable insights and demonstrated the effectiveness of SQL in addressing complex analytical tasks.
+
+**Key Takeaways:** Mastery of MySQL’s advanced features is crucial for in-depth data analysis, highlighting the importance of continual learning and adaptation in the data field.
+
 1. **Provide the list of markets in which customer "Atliq Exclusive" operates its business in the APAC region.** <br>
    ```
    SELECT DISTINCT market FROM dim_customer WHERE customer="Atliq Exclusive" AND region="APAC";
